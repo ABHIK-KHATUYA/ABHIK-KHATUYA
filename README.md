@@ -1,3 +1,4 @@
+![Logo](https://github.com/ABHIK-KHATUYA/ABHIK-KHATUYA/blob/main/Abhik%20gitbub%20banner.png)
 <h1 align="center">Hi 👋, I'm Abhik Khatuya</h1>
 <h3 align="center">A passionate full-stack developer and a AWS cloud developer from India</h3>
 
