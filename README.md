@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhik-khatuya&show_icons=true&locale=en&layout=compact" alt="abhik-khatuya" /></p>
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=ABHIK-KHATUYA&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIK-KHATUYA&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=ABHIK-KHATUYA&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,888a8c,b3b9c4,9fe3ed,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIK-KHATUYA&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhik-khatuya&show_icons=true&locale=en" alt="abhik-khatuya" /></p>
 
