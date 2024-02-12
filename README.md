@@ -3,13 +3,13 @@
 <h3 align="center">A passionate full-stack developer and an AWS cloud developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhik-khatuya&label=Profile%20views&color=0e75b6&style=flat" alt="abhik-khatuya" /> </p>
-
+<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/dojocat.jpg' width='300"'>
+<br>
+<br>
 # 💫 About Me:
 🔭 I’m currently working on E-commerce Website <br><br>🌱 I’m currently learning AWS<br><br>👯 I’m looking to collaborate on Angular and Aws<br><br>🤝 I’m looking for help with E-Shopper<br><br>💬 Ask me about Java, Angular, ReactJS, NodeJS, AWS, Spring boot<br><br>📫 How to reach me abhikkhatuya1205@gmail.com
 
-<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/dojocat.jpg' width='300"'>
-<br>
-<br>
+
 
 
 # 💻 Tech Stack:
