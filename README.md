@@ -3,11 +3,13 @@
 <h3 align="center">A passionate full-stack developer and an AWS cloud developer from India</h3>
 
 
-<img width="400px" align='right' src='https://github.com/ABHIK-KHATUYA/ABHIK-KHATUYA/blob/main/abhikgithubgif.gif' width='300"'>
 
-<br>
+
+
 # 💫 About Me:
-🔭 I’m currently working on E-commerce Website <br><br>🌱 I’m currently learning AWS<br><br>👯 I’m looking to collaborate on Angular and Aws<br><br>🤝 I’m looking for help with E-Shopper<br><br>💬 Ask me about Java, Angular, ReactJS, NodeJS, AWS, Spring boot<br><br>📫 How to reach me abhikkhatuya1205@gmail.com
+🔭 I’m currently working on E-commerce Website <br><img width="400px" align='right' src='https://github.com/ABHIK-KHATUYA/ABHIK-KHATUYA/blob/main/abhikgithubgif.gif' width='300"'><br>🌱 I’m currently learning AWS<br><br>👯 I’m looking to collaborate on Angular and Aws<br>
+
+<br>🤝 I’m looking for help with E-Shopper<br><br>💬 Ask me about Java, Angular, ReactJS, NodeJS, AWS, Spring boot<br><br>📫 How to reach me abhikkhatuya1205@gmail.com
 
 
 
